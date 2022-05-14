@@ -1,0 +1,14 @@
+.searchSection {
+  display: flex;
+  margin-top: 20px;
+  margin-left: 20px;
+  gap: 150px;
+}
+
+.botaoContradoSelecionado{
+  border: 2px solid #042F39;
+}
+
+.botaoRodoviaSelecionado{
+  border: 2px solid #042F39;
+}

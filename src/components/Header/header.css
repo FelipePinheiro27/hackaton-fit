@@ -1,0 +1,10 @@
+.headerCustom {
+    display: flex;
+    background-color: #042F39;
+    height: 80px;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    font-size: larger;
+    font-weight: 100;
+}
